@@ -1,10 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderamitdas&label=Profile%20views&color=0e75b6&style=flat" alt="coderamitdas" /> </p>
 
-# Hi there, My name is Amit Das.
+# Hi there 😊, My name is Amit Das.
 
 I'm web and Software Development and Ethical Hacker.
 
-# Little Bit More About Me
+# 👨‍💼Little Bit More About Me
 
 INTERESTS : 
 
